@@ -1,0 +1,25 @@
+<h3>Publication</h3><br>
+
+1. **J.-P. Peng**, N. Jones, M. Rayson, M. Schmitt, L. Umlauf, C. Whitwell, S.R. Keating, C. Shakespeare, G. Ivey (2025). *Interactions between diurnal warm layers and surface-layer fronts.* **Journal of Geophysical Research – Oceans**, **Volume 130**, **Issue 1**.
+
+2. J. Wei, J.J. Waniek, J. Kuss, O. Beltran-Perez, **J.-P. Peng**, C. Shi, J. Chen, J. Liu, L. Chen, R. Xie (2025). *Dynamics of Oxygen and the Physicochemical Response in Two Comparative Hypoxia Regions.***Oceans**, **Volume 6**, **Issue 3**.
+
+3. L.G. Bennetts, C.J. Shakespeare, C.A. Vreugdenhil, A. Foppert, B. Gayen, A. Meyer, A.K.
+Morrison, L. Padman, H.E. Phillips, C.L. Stevens, A. Toffoli, N.C. Constantinou, J.M. Cusack, A.
+Cyriac, E.W. Doddridge, M.H. England, D.G. Evans, P. Heil, A. McC. Hogg, R.M. Holmes, W.G.C.
+Huneke, N.L. Jones, S.R. Keating, A.E. Kiss, N. Kraitzman, A. Malyarenko, C.D. McConnochie, A.
+Meucci, F. Montiel, J. Neme, M. Nikurashin, R.S. Patel, **J.-P. Peng**, M. Rayson, M.G. Rosevear, T.
+Sohail, P. Spence, G.J. Stanley (2024). *Closing the loops on Southern Ocean dynamics: From the circumpolar current to ice shelves and from bottom mixing to surface waves*. **Review of Geophysics**, **Volume 62**, **Issue 1 (Impact Factor: 22.0)**.
+
+4. **J.-P. Peng**, J. Dräger-Dietel, R. North, & L. Umlauf (2021). *Diurnal variability of frontal dynamics,instability, and turbulence in a submesoscale upwelling filament.* **Journal of Physical Oceanography**, **Volume 51**, **Issue 8**, 2387–2406.
+
+5. **J.-P. Peng** (2020). *Frontal Dynamics, Instability, and Energy Dissipation in Submesoscale Upwelling Filaments.**Doctoral Dissertation, Institute of Baltic Sea Research Warnemünde, University of Rostock, Germany.**
+
+6. **J.-P. Peng**, P. Holtermann, & L. Umlauf (2020). *Frontal instability and energy dissipation in a submesoscale upwelling filament.* **Journal of Physical Oceanography**, **Volume 50**, **Issue 6**,
+1509–1526.
+
+7. D.-J. Doong, **J.-P. Peng**, & A. V. Babanin (2019). *Field investigations of coastal sea surface temperature drop after typhoon passages.* **Earth System Science Data**, **Volume 11**,**Issue 4**, 1607–1622.
+
+8. D.-J. Doong, **J.-P. Peng**, & Y.-C. Chen (2018). *Development of a warning model for coastal freak wave occurrences using an artificial neural network.* **Ocean Engineering**, **Volume 162**, 23–35.
+
+9. D.-J. Doong, C.-H. Tsai, Y.-C. Chen, **J.-P. Peng**, C.J. Huang (2015). *Statistical analysis on the long-term observations of typhoon waves in the Taiwan sea*. **Journal of Marine Science and Technology**, **Volume 23**, **Issue 3**, 435–447.

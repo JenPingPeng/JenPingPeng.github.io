@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Dr.Jen-Ping Peng"
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Home
+      - href: cv.qmd
+        text: CV
+      - href: Research.qmd
+        text: Reserach
+      - href: Teaching.qmd
+        text: Teaching
+      - href: Publication.qmd
+        text: Publication
+
+format:
+  html:
+    theme:
+      light: spacelab
+      dark: darkly
+    css: styles.css
+    toc: true
+    html-math-method: mathjax
+    embed-resources: false
+    allow-html: true
