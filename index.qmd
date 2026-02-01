@@ -13,7 +13,7 @@ toc: false
 ### Dr. Jen-Ping PENG{.mb-5}
 
 <b>Current affiliation:</b> IMEDEA (UIB-CSIC)<br>
-<b>Research group:</b> Physical Ocean Processes (POP)<br>
+<b>Research group:</b> [Physical Ocean Processes](https://imedea-pop-lab.github.io/){.text-decoration-none} <br>
 <b>Email:</b> jppeng (at) imedea.uib-csic.es<br>
 <b>Address:</b> C/ Miquel Marquès, 21<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;07190 Esporles<br>
