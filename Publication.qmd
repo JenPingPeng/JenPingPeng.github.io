@@ -22,4 +22,4 @@ Sohail, P. Spence, G.J. Stanley (2024). [*Closing the loops on Southern Ocean dy
 
 8. D.-J. Doong, **J.-P. Peng**, & Y.-C. Chen (2018). [*Development of a warning model for coastal freak wave occurrences using an artificial neural network.*](https://www.sciencedirect.com/science/article/abs/pii/S0029801818318432) **Ocean Engineering**, **Volume 162**, 23–35.
 
-9. D.-J. Doong, C.-H. Tsai, Y.-C. Chen, **J.-P. Peng**, C.J. Huang (2015). [*Statistical analysis on the long-term observations of typhoon waves in the Taiwan sea.*](https://jmstt.ntou.edu.tw/journal/vol23/iss6/8/) **Journal of Marine Science and Technology**, **Volume 23**, **Issue 3**, 435–447.
+9. D.-J. Doong, C.-H. Tsai, Y.-C. Chen, **J.-P. Peng**, C.-J. Huang (2015). [*Statistical analysis on the long-term observations of typhoon waves in the Taiwan sea.*](https://jmstt.ntou.edu.tw/journal/vol23/iss6/8/) **Journal of Marine Science and Technology**, **Volume 23**, **Issue 3**, 435–447.

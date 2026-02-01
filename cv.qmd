@@ -1,7 +1,7 @@
 ### CV{.mb-3}
 
 **Senior Postdoctoral Researcher**  
-*Mediterranean Institute for Advanced Studies (IMEDEA),*  jointly affiliated with the Spanish National Research Council (CSIC) and the University of the Balearic Islands (UIB; IMEDEA, UIB-CSIC), Spain
+*Mediterranean Institute for Advanced Studies (IMEDEA, UIB-CSIC),*  jointly affiliated with the Spanish National Research Council (CSIC) and the University of the Balearic Islands (UIB), Spain
 **05/2025 – present**
 
 **Research Associate**  
@@ -62,24 +62,24 @@ Supervisor: Prof. Dong-Jiing Doong (now at National Cheng Kung University)
 
 ### Teaching{.mb-3}
 
-***Physical Oceanography (Master level)***<br>
+***Physical Oceanography (Master level) -- Guest Lecturer***<br>
 Ocean Graduate School, University of Western Australia, Australia<br> 
 **10/2022**
 
-***Marine Turbulence (Master level)***<br> 
+***Marine Turbulence (Master level)- Teaching Assistant***<br> 
 Physics department, Universität Rostock, Germany<br> 
 **04-09/2019**
 
-***Hydrodynamics (Bachelor level)***<br> 
+***Hydrodynamics (Bachelor level) - Teaching Assistant***<br> 
 Physics department, Universität Rostock, Germany<br> 
 **10/2018–03/2019**
 
-***MATLAB (Bachelor level)***<br> 
+***MATLAB (Bachelor level) - Teaching Assistant***<br> 
 Department of Marine Environmental Informatics, National Taiwan Ocean University, Taiwan (ROC)<br> 
 **02/2013–07/2013**
 
 ### Research Cruises
-<h4>(98 days in total)</h4><br>
+<h4>(98 days in total)</h4>
 
 **06/2024:** 
 R/V Solander, Australian Northwest Shelf, University of Western Australia, 7 days, co-PI
