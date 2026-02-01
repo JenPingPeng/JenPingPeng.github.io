@@ -17,13 +17,14 @@ toc: false
 <b>Email:</b> jppeng (at) imedea.uib-csic.es<br>
 <b>Address:</b> C/ Miquel Marquès, 21<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;07190 Esporles<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Illes Balears, SPAIN
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Illes Balears, SPAIN<br>
+<b>ORCID:</b> [0000-0003-1575-0165](https://orcid.org/0000-0003-1575-0165){.text-decoration-none}
 :::
 :::
 
 ## Research Overview
 <p align="justify">
-I am a Senior Postdoctoral Researcher at <b>the Mediterranean Institute for Advanced Studies (IMEDEA)</b>, jointly affiliated with the Spanish National Research Council (CSIC) and the University of the Balearic Islands (UIB).
+I am a Senior Postdoctoral Researcher at <b>the Mediterranean Institute for Advanced Studies (IMEDEA, UIB-CSIC)</b>, jointly affiliated with the Spanish National Research Council (CSIC) and the University of the Balearic Islands (UIB).
 
 My academic trajectory spans leading research institutions in Germany, Australia, and Spain. My research focuses on the dynamics, instabilities, and turbulence of submesoscale fronts and filaments, and on their role in cross-scale energy transfer and air–sea fluxes under a wide range of atmospheric forcing conditions.
 
