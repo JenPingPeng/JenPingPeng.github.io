@@ -1,20 +1,17 @@
 {
-  "index.qmd": {
-    "index.html": "3f7a6704"
-  },
-  "about.qmd": {
-    "about.html": "3cbdae01"
-  },
   "cv.qmd": {
-    "cv.html": "921039ef"
+    "cv.html": "f375e026"
+  },
+  "index.qmd": {
+    "index.html": "16cf04a0"
   },
   "Publication.qmd": {
-    "Publication.html": "8aaa9818"
+    "Publication.html": "e60064a5"
   },
   "Research.qmd": {
-    "Research.html": "77ed850f"
+    "Research.html": "a281f26d"
   },
   "Teaching.qmd": {
-    "Teaching.html": "341857a1"
+    "Teaching.html": "663035ae"
   }
 }
