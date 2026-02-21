@@ -1,7 +1,7 @@
 ### CV{.mb-3}
 
 **Senior Postdoctoral Researcher**  
-*Mediterranean Institute for Advanced Studies (IMEDEA, UIB-CSIC),*  jointly affiliated with the Spanish National Research Council (CSIC) and the University of the Balearic Islands (UIB), Spain
+*Mediterranean Institute for Advanced Studies (IMEDEA, UIB-CSIC),*  jointly affiliated with the Spanish National Research Council (CSIC) and the University of the Balearic Islands (UIB), Spain*
 **05/2025 – present**
 
 **Research Associate**  
@@ -82,22 +82,22 @@ Department of Marine Environmental Informatics, National Taiwan Ocean University
 <h4>(98 days in total)</h4>
 
 **06/2024:** 
-R/V Solander, Australian Northwest Shelf, University of Western Australia, 7 days, co-PI
+[R/V Solander, Australian Northwest Shelf](https://research-repository.uwa.edu.au/en/datasets/swotmooringtemperaturepressure/), University of Western Australia, 7 days, co-PI 
 
 **04-05/2023:**
-R/V Solander, Australian Northwest Shelf, University of Western Australia, 28 days, co-PI
+[R/V Solander, Australian Northwest Shelf](https://research-repository.uwa.edu.au/en/datasets/swotmooringvelocity/), University of Western Australia, 28 days, co-PI 
 
 **09/2019:** 
-R/V Alice, Bornö Fjord, University of Copenhagen, 7 days
+[R/V Alice, Bornö Fjord](https://nbiocean.bitbucket.io/bornoe2019b/), University of Copenhagen, 7 days 
 
 **02/2019:** 
-R/V Electra, Northern Baltic Sea, Stockholm University, 14 days
+[R/V Electra, Northern Baltic Sea](https://os.copernicus.org/articles/19/1809/2023/#section12), Stockholm University, 14 days 
 
 **11-12/2018:** 
 R/V EMB, Central Baltic Sea, German Research Foundation (DFG), 21 days
 
 **10-11/2017:** 
-R/V EMB, Central Baltic Sea, German Research Foundation (DFG), 21 days
+[R/V EMB, Central Baltic Sea](https://www.seanoe.org/data/01010/112214/), German Research Foundation (DFG), 21 days 
 
 **Instruments used:** 
 Microstructure Turbulence Profilers, ship-board and moored ADCPs, drifter, autonomous gliders and wirewalkers, as well as standard oceanographic instruments.

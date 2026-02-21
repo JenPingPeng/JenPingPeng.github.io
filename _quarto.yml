@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Dr.Jen-Ping Peng"
+  title: "Dr. Jen-Ping Peng"
   navbar:
     background: primary
     left:
@@ -15,6 +15,10 @@ website:
         text: Research
       - href: Publication.qmd
         text: Publication
+
+  page-footer:
+    center:
+      - text: "© Jen-Ping Peng. All rights reserved."
 
 format:
   html:
