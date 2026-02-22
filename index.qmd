@@ -22,7 +22,7 @@ toc: false
 :::
 :::
 
-## Research Overview
+## Overview
 <p align="justify">
 I am a Senior Postdoctoral Researcher at <b>the Mediterranean Institute for Advanced Studies (IMEDEA, UIB-CSIC)</b>, jointly affiliated with the Spanish National Research Council (CSIC) and the University of the Balearic Islands (UIB).
 

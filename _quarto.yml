@@ -30,3 +30,6 @@ format:
     html-math-method: mathjax
     embed-resources: false
     allow-html: true
+    include-in-header:
+      - text: |
+          <meta name="google-site-verification" content="xL6mae0zciQqlKx3vkRMuMNdfpcnJuQZO1KAIbGCmMw" />

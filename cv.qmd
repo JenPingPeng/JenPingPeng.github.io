@@ -49,7 +49,7 @@ Supervisor: Prof. Dong-Jiing Doong (now at National Cheng Kung University)
 *UA-DAAD Australia-Germany Joint Research Award*
 
 **2021:** 
-*American Geophysical Union (AGU) Outstanding Reviewer Award*, for Geophysical Research Letters, nominated by Prof. Caitlin Whalen from University of Washington
+[*American Geophysical Union (AGU) Outstanding Reviewer Award*](https://www.uwa.edu.au/news/article/2022/august/awards-and-achievements), for Geophysical Research Letters, nominated by Prof. Caitlin Whalen from University of Washington
 
 **2020:**
 *Ph.D. thesis awarded magna cum laude (with Great Distinction)* by Universität Rostock
@@ -59,6 +59,30 @@ Supervisor: Prof. Dong-Jiing Doong (now at National Cheng Kung University)
 
 **2013:**
 *Taiwanese Exchange Student Scholarship Award*
+
+### Invited Presentations{.mb-3}
+
+**03/2025:**
+[*Frontiers in Surface Mixed Layer Dynamics and Turbulence*](https://www.ihos.ncu.edu.tw/p/404-1004-5537.php?Lang=zh-tw), Seminar, Institute of Hydrological and Oceanic Sciences, National Central University, Taiwan (ROC)
+
+**12/2024:** 
+*Submesoscale Fronts and Diurnal Warm Layers*, The 2nd Annual Conference of Marine System, Sun Yat-sen University, Zhuhai, China
+
+**11/2024:** 
+[*Submesoscale Fronts and Diurnal Warm Layers*](https://ocean.nsysu.edu.tw/p/406-1271-341764,r3555.php?Lang=zh-tw), College Seminar, College of Marine Sciences, National Sun Yat-sen University, Taiwan (ROC)
+ 
+**05/2024:**
+[*Symmetric Instability and Turbulence under Theoretically Unfavorable Conditions*](https://marine.sysu.edu.cn/event/10035), 
+The 21st Pacific-Asian Marginal Seas (PAMS) Meeting, Zhuhai, China
+
+**02/2023:**
+[*Diurnal Variability of Frontal Dynamics, Instability, and Energy Dissipation*](https://www.conferences.uni-hamburg.de/event/281/), Eddy-Wave Meeting, University of Hamburg, Germany
+ 
+**04/2022:**
+[*Submesoscale Dynamics and Turbulence under Theoretically-Unfavorable Conditions for Symmetric Instability*](https://www.geomar.de/en/service/veranstaltungen/wiss-veranstaltungen/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=8411&cHash=71489d3d7ee4ecc8a975b5e9db33d4a2), Ocean Circulation and Climate Dynamics Colloquium (GEOMAR), Germany, online
+
+**04/2022:** 
+*Submesoscale Dynamics and Turbulence under Theoretically-Unfavorable*, Conditions for Symmetric InstabilityMixing Seminar, University of Southampton, UK
 
 ### Teaching{.mb-3}
 
@@ -78,7 +102,7 @@ Physics department, Universität Rostock, Germany<br>
 Department of Marine Environmental Informatics, National Taiwan Ocean University, Taiwan (ROC)<br> 
 **02/2013–07/2013**
 
-### Research Cruises
+### Research Cruises{.mb-3}
 <h4>(98 days in total)</h4>
 
 **06/2024:** 
