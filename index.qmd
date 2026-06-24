@@ -37,3 +37,11 @@ I address fundamental questions in physical oceanography using an integrated app
 - Cross-scale energy transfer
 - Submesoscale air–sea interactions
 - Oceanic extreme events (e.g., typhoons, freak waves)
+
+## Recent News
+
+- First Prize, [Outstanding Young Scientist Award (OYSA)](https://iwmo.net/iwmo-2026/)
+
+- IWMO 2026 presentation, title: *Integration of SWOT and in situ observations into a high-resolution ocean data assimilation model for the 3D representation of a small-scale intrathermocline eddy*, 16th International Workshop on Modeling the Ocean, Palma, Balearic Islands, Spain, 2 to 5 June 2026.
+
+- Ocean Sciences Meeting 2026 presentation, title: *Improving the representation of a small-scale intrathermocline eddy in a regional ocean model through SWOT and glider data assimilation*, Glasgow, Scotland, 22 to 27 February 2026.
